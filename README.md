@@ -1,2 +1,2 @@
 # odin-recipes
-TOP - Recipes HTML project
+The Oddin Project - Recipes HTML practice project
